@@ -1,0 +1,12 @@
+{
+  "extends": ["tslint:recommended", "tslint-react"],
+  "rules": {
+    "quotemark": [true, "single", "jsx-double"],
+    "semicolon": [true, "never"],
+    "object-curly-spacing": [true, "always"],
+    "jsx-curly-spacing": [true, "always"],
+    "no-console": false,
+    "interface-name": false,
+    "object-literal-sort-keys": false
+  }
+}
