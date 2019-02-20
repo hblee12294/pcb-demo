@@ -7,7 +7,7 @@
     "jsx-curly-spacing": [true, "always"],
     "no-console": false,
     "interface-name": false,
-    "object-literal-sort-keys": false,
-    "jsx-no-multiline-js": false,
+    "object-literal-sort-keys": false
+    // "jsx-no-multiline-js": false,
   }
 }
